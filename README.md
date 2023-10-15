@@ -6,7 +6,7 @@ This is a dribble design, converted to a Next js 13 app.
 Clone the git REPO 
 
 ```bash
-  git clone https://github.com/Ajaydeep123/Ahead-app-ui.git
+  git clone https://github.com/KhushiramMeena/density-frontend.git
 ```
 
 Go to the project directory
