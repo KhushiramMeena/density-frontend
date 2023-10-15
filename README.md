@@ -1,6 +1,6 @@
 # density-frontend (Assignment)
 
-This is a dribble design, converted to a Next js 13 app.
+
 ## TO Run Locally
 
 Clone the git REPO 
